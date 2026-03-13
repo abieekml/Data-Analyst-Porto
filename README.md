@@ -34,6 +34,7 @@ Fakta Notifikasi: Secara mengejutkan, jumlah notifikasi harian hampir tidak memi
 Konsumsi Kafein: Kelompok Freelancer tercatat sebagai konsumen kafein tertinggi dengan rata-rata di atas 2 cangkir per hari (mungkin karena pola kerja yang fleksibel namun menantang).
 
 📁 Struktur Repositori
+
 data/: Dataset "Sleep, Mobile, & Stress" dari Kaggle.com.
 
 visualizations/: Folder berisi grafik rata-rata tingkat stres, konsumsi kafein, dan korelasi tidur.
