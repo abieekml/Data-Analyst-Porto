@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # 1. Simulasi Data 
-# Menggunakan 15.000 data seperti di proyek kamu
+# Menggunakan 15.000 data 
 np.random.seed(42)
 n_samples = 15000
 
