@@ -5,9 +5,9 @@
 [![Tools](https://img.shields.io/badge/Tools-Python%20%7C%20Pandas%20%7C%20Seaborn-blue.svg)](#)
 
 ## 📝 Deskripsi Proyek
-Laporan ini mengeksplorasi hubungan antara pola penggunaan perangkat seluler, kualitas tidur, dan tingkat stres individu[cite: 6]. Proyek ini telah ditingkatkan dari analisis berbasis spreadsheet ke **automasi menggunakan Python** untuk mendemonstrasikan kemampuan teknis dalam pengolahan data besar (*big data*) dan visualisasi yang lebih mendalam.
+[cite_start]Laporan ini mengeksplorasi hubungan antara pola penggunaan perangkat seluler, kualitas tidur, dan tingkat stres individu[cite: 6]. Proyek ini telah ditingkatkan dari analisis berbasis spreadsheet ke **automasi menggunakan Python** untuk mendemonstrasikan kemampuan teknis dalam pengolahan data besar (*big data*) dan visualisasi yang lebih mendalam.
 
-Analisis dilakukan menggunakan dataset dari **Kaggle** yang mencakup **15.000 data observasi** dengan distribusi gender yang representatif: 7.234 laki-laki, 7.181 perempuan, dan 585 kategori lainnya[cite: 7, 12].
+[cite_start]Analisis dilakukan menggunakan dataset dari **Kaggle** yang mencakup **15.000 data observasi** dengan distribusi gender yang representatif: 7.234 laki-laki, 7.181 perempuan, dan 585 kategori lainnya[cite: 7, 12].
 
 ---
 
@@ -22,19 +22,19 @@ Proyek ini mengacu pada standar kompetensi *data analyst* modern:
 ---
 
 ## 🚀 Langkah-Langkah Analisis
-1. **Identifikasi Pertanyaan**: Menentukan variabel penelitian seperti hubungan *screen time* vs kelelahan mental agar interpretasi data lebih tajam[cite: 106].
-2. **Automated Data Cleaning**: Menggunakan skrip Python untuk memastikan integritas data dan menangani dataset 15.000 baris secara efisien[cite: 7].
-3. **Exploratory Data Analysis (EDA)**: Meneliti korelasi antar variabel, termasuk dampak penggunaan ponsel sebelum tidur terhadap kualitas istirahat[cite: 13, 98].
-4. **Final Visualization**: Menyusun temuan utama dalam bentuk laporan visual sistematis menggunakan *library* Python[cite: 15, 65].
+1. [cite_start]**Identifikasi Pertanyaan**: Menentukan variabel penelitian seperti hubungan *screen time* vs kelelahan mental agar interpretasi data lebih tajam[cite: 106].
+2. [cite_start]**Automated Data Cleaning**: Menggunakan skrip Python untuk memastikan integritas data dan menangani dataset 15.000 baris secara efisien[cite: 7].
+3. [cite_start]**Exploratory Data Analysis (EDA)**: Meneliti korelasi antar variabel, termasuk dampak penggunaan ponsel sebelum tidur terhadap kualitas istirahat[cite: 13, 98].
+4. [cite_start]**Final Visualization**: Menyusun temuan utama dalam bentuk laporan visual sistematis menggunakan *library* Python[cite: 15, 65].
 
 ---
 
 ## 💡 Temuan Utama (Insights)
-**Korelasi Screen Time**: Terdapat korelasi positif yang sangat kuat (**0,83**) antara durasi layar harian dengan skor kelelahan mental[cite: 13, 94].
-**Kelompok Paling Rentan**: Mahasiswa (*Student*) memiliki rata-rata tingkat stres tertinggi (**7,18**) dibandingkan profesi lainnya[cite: 13, 97].
-**Higiene Tidur**: Penggunaan ponsel sesaat sebelum tidur memiliki korelasi negatif (**-0,33**) yang secara signifikan menurunkan kualitas tidur[cite: 13, 98].
-**Mitos Notifikasi**: Secara mengejutkan, jumlah notifikasi harian hampir tidak memiliki pengaruh terhadap tingkat stres (korelasi **-0,002**)[cite: 14, 99].
-**Konsumsi Kafein**: Kelompok *Freelancer* tercatat sebagai konsumen kafein tertinggi dengan rata-rata **2,05** cangkir per hari[cite: 14, 101].
+* [cite_start]**Korelasi Screen Time**: Terdapat korelasi positif yang sangat kuat (**0,83**) antara durasi layar harian dengan skor kelelahan mental[cite: 13, 94].
+* [cite_start]**Kelompok Paling Rentan**: Mahasiswa (*Student*) memiliki rata-rata tingkat stres tertinggi (**7,18**) dibandingkan profesi lainnya[cite: 13, 97].
+* [cite_start]**Higiene Tidur**: Penggunaan ponsel sesaat sebelum tidur memiliki korelasi negatif (**-0,33**) yang secara signifikan menurunkan kualitas tidur[cite: 13, 98].
+* [cite_start]**Mitos Notifikasi**: Secara mengejutkan, jumlah notifikasi harian hampir tidak memiliki pengaruh terhadap tingkat stres (korelasi **-0,002**)[cite: 14, 99].
+* [cite_start]**Konsumsi Kafein**: Kelompok *Freelancer* tercatat sebagai konsumen kafein tertinggi dengan rata-rata **2,05** cangkir per hari[cite: 14, 101].
 
 ---
 
@@ -50,9 +50,9 @@ Proyek ini mengacu pada standar kompetensi *data analyst* modern:
 ---
 
 ## 👤 Informasi Penulis
-**Nama**: Abi Kamal [cite: 1]
-**NIM**: 124090310100004 [cite: 3]
-**Instansi**: 4A Sistem Informasi, UIN Syarif Hidayatullah Jakarta [cite: 2]
+* [cite_start]**Nama**: Abi Kamal [cite: 1]
+* [cite_start]**NIM**: 124090310100004 [cite: 3]
+* [cite_start]**Instansi**: 4A Sistem Informasi, UIN Syarif Hidayatullah Jakarta [cite: 2]
 * **Profil**: [GitHub abieekml](https://github.com/abieekml)
 
 ---
